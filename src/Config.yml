@@ -1,0 +1,70 @@
+#######################################
+##               @Config             ##
+##      >>> VisibilityToggle <<<     ##
+##    @Developed By CleusGamer201    ##
+#######################################
+Prefix: '&bVisbility&7<13> &r'
+MySQL:
+  Enabled: false
+  Host: 127.0.0.1
+  Database: Minecraft
+  Username: root
+  Password: pass
+  Port: 3306
+
+Settings:
+  Slot: 8
+  Delay: 3
+  ToggleSound:
+    Enabled: true
+    Sound: 'LAVA_POP'
+    Vol: 2.0
+    Pitch: 2.0
+  BlockMovement: true
+  BlockDrop: true
+  GiveOnRespawn: true
+  ClearInvOnJoin: false
+  ClearInvOnWorldChange: false
+  JoinToggleMessage: true
+  ShowToggleMessages: true
+  ShowToggleTitles: true
+  ToggleItem: true
+  EnabledWorlds:
+  - World
+
+Messages:
+  Show: '&7¡Showing all players!'
+  Rank: '&7¡Showing only players with rank'
+  Hide: '&7¡All players hided!'
+  Delay: '&eWait &7{cooldown}s &eto use again!'
+
+Titles:
+  Show:
+    Title: '&aPLAYERS ON'
+    Subtitle: '&7¡now all players are visible!'
+  Rank:
+    Title: '&dONLY RANK'
+    Subtitle: '&7¡only players with rank will be show!'
+  Hide:
+    Title: '&cPLAYERS OFF'
+    Subtitle: '&7¡now all players are invisible!'
+
+Items:
+  Show:
+    Name: '&bPlayers&7> &aOn &7(Right Click)'
+    Item: INK_SACK
+    Data: 10
+    Lore: 
+    - '&7Right Click To &eToggle'
+  Rank:
+    Name: '&bPlayers&7> &dRank Only &7(Right Click)'
+    Item: INK_SACK
+    Data: 9
+    Lore: 
+    - '&7Right Click To &eToggle'
+  Hide:
+    Name: '&bPlayers&7> &cOff &7(Right Click)'
+    Item: INK_SACK
+    Data: 8
+    Lore: 
+    - '&7Right Click To &eToggle'

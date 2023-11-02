@@ -1,0 +1,8 @@
+name: VisibilityToggle
+main: dev.cleusgamer201.visibilitytoggle.Main
+version: 3.9
+api-version: 1.16
+author: CleusGamer201
+commands:
+  VisibilityToggle:
+    aliases: [vt, visibility]
