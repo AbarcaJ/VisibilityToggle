@@ -1,6 +1,8 @@
 ## VisibilityToggle
 Hello!, This is the VisibilityToggle repository, because I have stopped creating plugins for Minecraft I have decided to leave the code free so that all the users who have accompanied the project until now, over these years, can continue using it and modify it according to the needs of your server.
 
+![VisibilityToggle_Logo](https://www.spigotmc.org/data/resource_icons/61/61681.jpg?1539913852)
+
 ### Get Started
 To start modifying you just need to clone the repository and add Spigot-1.16.5 in your build path as a dependency.
 
@@ -21,7 +23,6 @@ Copyright (C) 2023 Jose Abarca (https://github.com/AbarcaJ)
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-Read more about GPL License included at (https://github.com/AbarcaJ/VisibilityToggle/blob/master/LICENSE)
 ```
+Read more about GPL License included at (https://github.com/AbarcaJ/VisibilityToggle/blob/master/LICENSE)
 
