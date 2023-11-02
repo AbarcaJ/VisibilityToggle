@@ -26,3 +26,5 @@ Copyright (C) 2023 Jose Abarca (https://github.com/AbarcaJ)
 ```
 Read more about GPL License included at (https://github.com/AbarcaJ/VisibilityToggle/blob/master/LICENSE)
 
+### Donate here !
+![Donate](https://i.imgur.com/nKP6aAG.png)
